@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apk": "apk/Hisaabi.apk",
-  "sha256": "fa7c60726f5aed646a937bb18a168b3fd79aa31fb357ec13856cf30bb62cbfa2",
-  "notes_en": "New 💰 Savings page: see how much the family saves (minimum 10%, excellent 35%), how much you can still spend, and daily tips. Admin sees family payments from SMS that are not added yet. The app now tells you when an update is ready.",
-  "notes_gu": "નવું 💰 બચત પેજ: ફેમિલી કેટલી બચત કરે છે (ઓછામાં ઓછું 10%, શાનદાર 35%), હજી કેટલું ખર્ચી શકાય અને રોજની ટિપ્સ. એડમિન ફેમિલીનાં ઉમેર્યા વગરનાં SMS પેમેન્ટ જોઈ શકે. અપડેટ આવે ત્યારે ઍપ જાતે બતાવશે."
+  "sha256": "e2636c6b9884e49a9e9bf035568576ea83130a389e0ba55dc09be9e59fca123b",
+  "notes_en": "Back button now goes back one step at a time (to the previous page, then the Hisaab page) and asks 'press Back again' before closing. Leaving a new entry with something typed asks first. Also includes 1.5: Savings page, admin view of family SMS payments, automatic update check.",
+  "notes_gu": "Back બટન હવે એક-એક પગલું પાછું જાય છે (પાછલા પેજ પર, પછી હિસાબ પેજ પર) અને બંધ કરતાં પહેલાં 'ફરી Back દબાવો' કહે છે. નવી એન્ટ્રીમાં કંઈ લખ્યું હોય તો જતાં પહેલાં પૂછે છે. સાથે 1.5 પણ: બચત પેજ, એડમિન માટે ફેમિલીનાં SMS પેમેન્ટ, જાતે અપડેટ તપાસ."
 }
