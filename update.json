@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "apk": "apk/Hisaabi.apk",
-  "sha256": "e2636c6b9884e49a9e9bf035568576ea83130a389e0ba55dc09be9e59fca123b",
-  "notes_en": "Back button now goes back one step at a time (to the previous page, then the Hisaab page) and asks 'press Back again' before closing. Leaving a new entry with something typed asks first. Also includes 1.5: Savings page, admin view of family SMS payments, automatic update check.",
-  "notes_gu": "Back બટન હવે એક-એક પગલું પાછું જાય છે (પાછલા પેજ પર, પછી હિસાબ પેજ પર) અને બંધ કરતાં પહેલાં 'ફરી Back દબાવો' કહે છે. નવી એન્ટ્રીમાં કંઈ લખ્યું હોય તો જતાં પહેલાં પૂછે છે. સાથે 1.5 પણ: બચત પેજ, એડમિન માટે ફેમિલીનાં SMS પેમેન્ટ, જાતે અપડેટ તપાસ."
+  "sha256": "708b8134c0399fdfeb31b59405f1e3cdbb6f0d5b580af30ba0e2ab2ee029a879",
+  "notes_en": "📢 Update news now shows on the home page: what a new version brings before you update, and what changed after. Also: Back goes one step at a time; Savings page; admin sees family SMS payments not added yet.",
+  "notes_gu": "📢 અપડેટના સમાચાર હવે હોમ પેજ પર: નવું વર્ઝન શું લાવે છે તે અપડેટ પહેલાં, અને શું બદલાયું તે પછી. સાથે: Back એક-એક પગલું પાછું; બચત પેજ; એડમિન ઉમેર્યા વગરનાં SMS પેમેન્ટ જુએ છે."
 }
