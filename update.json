@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 11,
+  "versionName": "2.0",
   "apk": "apk/Hisaabi.apk",
-  "sha256": "f24f9cc1ff0dbdad973cfc127405c94a785df09b38d62ca1d074d7633b9129f4",
-  "notes_en": "🏷️ Admin can now edit every category: change its emoji or name, hide ones the family doesn't use, or reset to the original (Settings → Categories).",
-  "notes_gu": "🏷️ એડમિન હવે દરેક પ્રકાર બદલી શકે: ઇમોજી કે નામ બદલો, ન વપરાતા છુપાવો, અથવા મૂળ જેવું કરો (સેટિંગ્સ → પ્રકાર)."
+  "sha256": "306ca1ae0ed895728e71e095c17f56f8c7be22644f58eb1348e827f04e49dc09",
+  "notes_en": "🏷️ Admin can add a category right on the New entry page (\"＋ New\" tile) and hold any category to edit or hide it. Also edit every category in Settings → Categories.",
+  "notes_gu": "🏷️ એડમિન નવી એન્ટ્રીના પેજ પર જ પ્રકાર ઉમેરી શકે (\"＋ નવો\") અને કોઈ પણ પ્રકાર દબાવી રાખી બદલી કે છુપાવી શકે. સેટિંગ્સ → પ્રકારમાં પણ દરેક પ્રકાર બદલી શકાય."
 }
