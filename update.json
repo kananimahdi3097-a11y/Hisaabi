@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "1.8",
   "apk": "apk/Hisaabi.apk",
-  "sha256": "708b8134c0399fdfeb31b59405f1e3cdbb6f0d5b580af30ba0e2ab2ee029a879",
-  "notes_en": "📢 Update news now shows on the home page: what a new version brings before you update, and what changed after. Also: Back goes one step at a time; Savings page; admin sees family SMS payments not added yet.",
-  "notes_gu": "📢 અપડેટના સમાચાર હવે હોમ પેજ પર: નવું વર્ઝન શું લાવે છે તે અપડેટ પહેલાં, અને શું બદલાયું તે પછી. સાથે: Back એક-એક પગલું પાછું; બચત પેજ; એડમિન ઉમેર્યા વગરનાં SMS પેમેન્ટ જુએ છે."
+  "sha256": "55abd4791724100524f6964b4ecfaae54f702f5f5ecd3b4067b3b9b2e34e7495",
+  "notes_en": "🧹 Cleaner home page: just the house this month, your spending, savings and the last 5 entries. Tap \"See all\" for every entry with filters; details open inside each section.",
+  "notes_gu": "🧹 સાદું હોમ પેજ: ફક્ત આ મહિનાનું ઘર, તમારો ખર્ચ, બચત અને છેલ્લી 5 એન્ટ્રી. બધી એન્ટ્રી ફિલ્ટર સાથે જોવા \"બધી જુઓ\" દબાવો; વિગતો દરેક વિભાગની અંદર ખૂલે છે."
 }
