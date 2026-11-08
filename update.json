@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "apk": "apk/Hisaabi.apk",
-  "sha256": "55abd4791724100524f6964b4ecfaae54f702f5f5ecd3b4067b3b9b2e34e7495",
-  "notes_en": "🧹 Cleaner home page: just the house this month, your spending, savings and the last 5 entries. Tap \"See all\" for every entry with filters; details open inside each section.",
-  "notes_gu": "🧹 સાદું હોમ પેજ: ફક્ત આ મહિનાનું ઘર, તમારો ખર્ચ, બચત અને છેલ્લી 5 એન્ટ્રી. બધી એન્ટ્રી ફિલ્ટર સાથે જોવા \"બધી જુઓ\" દબાવો; વિગતો દરેક વિભાગની અંદર ખૂલે છે."
+  "sha256": "f24f9cc1ff0dbdad973cfc127405c94a785df09b38d62ca1d074d7633b9129f4",
+  "notes_en": "🏷️ Admin can now edit every category: change its emoji or name, hide ones the family doesn't use, or reset to the original (Settings → Categories).",
+  "notes_gu": "🏷️ એડમિન હવે દરેક પ્રકાર બદલી શકે: ઇમોજી કે નામ બદલો, ન વપરાતા છુપાવો, અથવા મૂળ જેવું કરો (સેટિંગ્સ → પ્રકાર)."
 }
