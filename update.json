@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
+  "versionCode": 12,
+  "versionName": "2.1",
   "apk": "apk/Hisaabi.apk",
-  "sha256": "306ca1ae0ed895728e71e095c17f56f8c7be22644f58eb1348e827f04e49dc09",
-  "notes_en": "🏷️ Admin can add a category right on the New entry page (\"＋ New\" tile) and hold any category to edit or hide it. Also edit every category in Settings → Categories.",
-  "notes_gu": "🏷️ એડમિન નવી એન્ટ્રીના પેજ પર જ પ્રકાર ઉમેરી શકે (\"＋ નવો\") અને કોઈ પણ પ્રકાર દબાવી રાખી બદલી કે છુપાવી શકે. સેટિંગ્સ → પ્રકારમાં પણ દરેક પ્રકાર બદલી શકાય."
+  "sha256": "073258a4eb53d3339437e727e26f863125ca8e7f6f8030332f7f646378bf2635",
+  "notes_en": "📳 Fixed: vibration on tap now works (it was blocked by a missing permission), also inside pop-ups.",
+  "notes_gu": "📳 સુધાર્યું: દબાવતાં વાઇબ્રેશન હવે ચાલે છે (એક પરવાનગી ખૂટતી હતી), પૉપ-અપમાં પણ."
 }
