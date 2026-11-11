@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
+  "versionCode": 13,
+  "versionName": "2.2",
   "apk": "apk/Hisaabi.apk",
-  "sha256": "073258a4eb53d3339437e727e26f863125ca8e7f6f8030332f7f646378bf2635",
-  "notes_en": "📳 Fixed: vibration on tap now works (it was blocked by a missing permission), also inside pop-ups.",
-  "notes_gu": "📳 સુધાર્યું: દબાવતાં વાઇબ્રેશન હવે ચાલે છે (એક પરવાનગી ખૂટતી હતી), પૉપ-અપમાં પણ."
+  "sha256": "dcd3d62bcc1d13946e2f750945f8155fc49cc5e425d35764f9b20d38182bf08c",
+  "notes_en": "⚡ Much faster: the screen no longer waits while syncing, so taps, Save and pull-to-refresh respond at once and refresh no longer gets stuck.",
+  "notes_gu": "⚡ ઘણું ઝડપી: સિંક ચાલતું હોય ત્યારે સ્ક્રીન હવે અટકતી નથી, એટલે દબાવવું, સેવ અને નીચે ખેંચી રિફ્રેશ તરત ચાલે છે અને રિફ્રેશ અટકતું નથી."
 }
